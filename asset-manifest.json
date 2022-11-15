@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-f2e-2022-week2-sign/static/css/main.7475c432.css",
+    "main.js": "/the-f2e-2022-week2-sign/static/js/main.afb679a6.js",
+    "static/media/logo-3sign-e.svg": "/the-f2e-2022-week2-sign/static/media/logo-3sign-e.66b6c9cdaa498b8a0fbe9d9019acb58c.svg",
+    "static/media/upload-doc.svg": "/the-f2e-2022-week2-sign/static/media/upload-doc.22c51c0238e8d26558cdf7d8a2abf75a.svg",
+    "index.html": "/the-f2e-2022-week2-sign/index.html",
+    "main.7475c432.css.map": "/the-f2e-2022-week2-sign/static/css/main.7475c432.css.map",
+    "main.afb679a6.js.map": "/the-f2e-2022-week2-sign/static/js/main.afb679a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7475c432.css",
+    "static/js/main.afb679a6.js"
+  ]
+}

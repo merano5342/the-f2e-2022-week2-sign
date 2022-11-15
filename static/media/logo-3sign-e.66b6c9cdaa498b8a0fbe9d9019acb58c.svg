@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 520 320" style="enable-background:new 0 0 520 320;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EAB308;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:#FFFFFF;}
+	.st4{display:inline;stroke:#FFFFFF;stroke-width:17;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<polygon class="st0" points="179.2,102.4 0,102.4 89.6,0 268.8,0 			"/>
+			<polygon class="st0" points="179.2,204.8 0,204.8 89.6,102.4 268.8,102.4 			"/>
+		</g>
+		<polyline points="78.2,217.6 167.8,217.6 78.2,320 		"/>
+	</g>
+	<g>
+		<path class="st0" d="M202,268.5l7.9,25.8L187.8,320h-30l-30,0l-7.9-25.8l29,0l31,0l-7.9-25.8l0,0l-7.9-25.8l22.1-25.8l30,0l0,0
+			h30.1l7.9,25.8h-30.1h-30L202,268.5z"/>
+		<path class="st0" d="M359.1,268.5h30L367,294.2L344.9,320h-30h-30l-7.9-25.8l22.1-25.8l22.1-25.8l22.1-25.8h30h30l7.9,25.8h-30
+			h-30l-22.1,25.8L307,294.2h30l-7.9-25.8H359.1z"/>
+		<g>
+			<polyline class="st0" points="273.3,242.7 251.2,268.5 229.1,294.2 206.9,320 237,320 259.1,294.2 281.2,268.5 303.3,242.7 			
+				"/>
+			<polyline points="295.4,217 265.3,217 273.3,242.7 			"/>
+		</g>
+		<path class="st0" d="M520,242.7l-22.1,25.8l-22.1,25.8L453.7,320h0h0l-7.9-25.8l0,0l-7.9-25.8l-22.1,25.8L393.6,320l-30,0
+			l44.2-51.5l22.1-25.8L452,217l7.9,25.8l7.9,25.8l22.1-25.8l22.1-25.8L520,242.7z M445.7,294.2L423.6,320h30L445.7,294.2
+			L445.7,294.2z"/>
+	</g>
+</g>
+</svg>
