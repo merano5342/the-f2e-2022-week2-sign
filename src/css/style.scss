@@ -13,6 +13,11 @@ body,
   width: 100%;
 }
 
+#canvas {
+  border: 1px solid #000;
+  height: 300px;
+  width: 500px;
+}
 
 .container {
   position: relative;
@@ -130,6 +135,8 @@ body,
   }
 
   .sign-draw-panel {
+    width: 300px;
+    margin: 0 auto;
 
     .tab {
       background-color: theme('colors.white');
@@ -148,6 +155,7 @@ body,
 
     .board {
       height: 190px;
+
       background: linear-gradient(0deg, #FEFCE8, #FEFCE8),
         linear-gradient(0deg, #EAB308, #EAB308);
 
