@@ -5,7 +5,6 @@ import uploadDoc from '../assets/images/upload-doc.svg'
 
 
 
-
 const FirstPage = () => {
   const [images, setImages] = React.useState([]);
   const maxNumber = 69;
@@ -17,7 +16,7 @@ const FirstPage = () => {
   };
 
   return (
-    <div className="flex flex-col justify-center items-center top-[128px] relative">
+    <div className="flex flex-col justify-center items-center pt-[128px] relative" id='first-page'>
       <h4 className=' text-gray text-center pb-4'>急著簽名？快用閃簽！</h4>
       <ImageUploading
         multiple

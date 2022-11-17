@@ -22,6 +22,16 @@ module.exports = {
       'lightBlue': '#3B82F6',
       'red': '#BE123C',
       'rose': '#F43F5E',
+
+      'gray1': '#F4F4F5',
+      'gray2': '#E4E4E7',
+      'gray3': '#D4D4D8',
+      'gray4': '#A1A1AA',
+      'gray7': '#3F3F46',
+      'gray8': '#27272A',
+
+
+
     },
     screens: {
       // 'xs': '376px',
@@ -79,7 +89,7 @@ module.exports = {
           textAlign: 'left',
         },
         'h6': {
-          color: theme('colors.gray'),
+          color: theme('colors.black'),
           fontFamily: 'Inter',
           fontSize: '14px',
           fontWeight: '400',
