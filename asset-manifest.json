@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/the-f2e-2022-week2-sign/static/css/main.209e9cf8.css",
-    "main.js": "/the-f2e-2022-week2-sign/static/js/main.5ad18e24.js",
+    "main.css": "/the-f2e-2022-week2-sign/static/css/main.95634b09.css",
+    "main.js": "/the-f2e-2022-week2-sign/static/js/main.679a167d.js",
     "static/media/logo-3sign-anime.gif": "/the-f2e-2022-week2-sign/static/media/logo-3sign-anime.b48358441142cb6b28db.gif",
     "static/media/emoji-icon.svg": "/the-f2e-2022-week2-sign/static/media/emoji-icon.7d8e9ffb5488a52f98e4b156f3516f4b.svg",
     "static/media/logo-btn-tool.svg": "/the-f2e-2022-week2-sign/static/media/logo-btn-tool.02ada7d8a83ed1241d9c8a882eaa7ef7.svg",
@@ -12,12 +12,13 @@
     "static/media/add-icon.svg": "/the-f2e-2022-week2-sign/static/media/add-icon.fc4b2355112e13a20a9f1a61af21b725.svg",
     "static/media/edit-icon.svg": "/the-f2e-2022-week2-sign/static/media/edit-icon.0296413318f8244be5ba63a043cbbf86.svg",
     "index.html": "/the-f2e-2022-week2-sign/index.html",
+    "static/media/undo-icon.svg": "/the-f2e-2022-week2-sign/static/media/undo-icon.7460b5c302e3bdc1480f898934355f5b.svg",
     "static/media/back-icon.svg": "/the-f2e-2022-week2-sign/static/media/back-icon.55e0de3ae175731e7495a5aa2a7d3e57.svg",
-    "main.209e9cf8.css.map": "/the-f2e-2022-week2-sign/static/css/main.209e9cf8.css.map",
-    "main.5ad18e24.js.map": "/the-f2e-2022-week2-sign/static/js/main.5ad18e24.js.map"
+    "main.95634b09.css.map": "/the-f2e-2022-week2-sign/static/css/main.95634b09.css.map",
+    "main.679a167d.js.map": "/the-f2e-2022-week2-sign/static/js/main.679a167d.js.map"
   },
   "entrypoints": [
-    "static/css/main.209e9cf8.css",
-    "static/js/main.5ad18e24.js"
+    "static/css/main.95634b09.css",
+    "static/js/main.679a167d.js"
   ]
 }
