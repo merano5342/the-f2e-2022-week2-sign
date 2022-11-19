@@ -13,11 +13,11 @@ body,
   width: 100%;
 }
 
-#canvas {
-  border: 1px solid #000;
-  height: 300px;
-  width: 500px;
-}
+// #canvas {
+//   border: 1px solid #000;
+//   height: 300px;
+//   width: 500px;
+// }
 
 .container {
   position: relative;
@@ -101,7 +101,7 @@ body,
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 44px;
+    height: 70px;
     width: 100%;
 
     margin: 8px 0;
@@ -116,7 +116,7 @@ body,
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 44px;
+    height: 70px;
 
     margin: 8px 0;
     padding: 0 24px;
@@ -135,7 +135,7 @@ body,
   }
 
   .sign-draw-panel {
-    width: 300px;
+    width: 80vw;
     margin: 0 auto;
 
     .tab {
@@ -155,11 +155,9 @@ body,
 
     .board {
       height: 190px;
+      width: 300px;
 
-      background: linear-gradient(0deg, #FEFCE8, #FEFCE8),
-        linear-gradient(0deg, #EAB308, #EAB308);
-
-      border: 1px solid #EAB308;
+      outline: #EAB308 1px solid;
       border-radius: 0px 0px 12px 12px;
     }
 

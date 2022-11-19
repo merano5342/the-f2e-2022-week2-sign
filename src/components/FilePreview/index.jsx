@@ -5,10 +5,13 @@ import ToolBar from './ToolBar'
 
 import MySignature from './MySignatureModal'
 import { useState } from 'react'
+import { useMyContext } from '../unit/useContext.jsx'
 
 const FilePreview = () => {
 
   const [panelOpen, setPanelOpen] = useState(false)
+  // const [saveSign, setSaveSign] = useState("");
+  const {  saveSign,setSaveSign } =useMyContext();
 
   return (
     <div className="file-preview">
@@ -22,7 +25,8 @@ const FilePreview = () => {
       </div>
 
       <ToolBar onPanelOpen={setPanelOpen} />
-      {panelOpen && <MySignature onPanelOpen={setPanelOpen} />}
+      {panelOpen && <MySignature
+        onPanelOpen={setPanelOpen} />}
 
       <div className="pt-[80px] h-[100vh] bg-gray1 p-6">
         <h5 className='text-center'>共 87 頁，第 8 頁</h5>
