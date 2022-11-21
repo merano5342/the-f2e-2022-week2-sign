@@ -1,15 +1,7 @@
-
-
 const Background = (props) => {
-  const { onPanelOpen } = props
+  const { onPanelOpen } = props;
 
-  return (
-    <div className='background' onClick={() => onPanelOpen(false)} >
+  return <div className="background" onClick={() => onPanelOpen(false)} />;
+};
 
-    </div>
-  )
-
-}
-
-export default Background
-
+export default Background;
